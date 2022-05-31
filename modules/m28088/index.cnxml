@@ -1,0 +1,54 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>TỔ HỢP VÀ HOÁN VỊ</title>
+  <metadata>
+  <md:content-id>m28088</md:content-id><md:title>TỔ HỢP VÀ HOÁN VỊ</md:title>
+  <md:abstract/>
+  <md:uuid>edde578b-2fd3-4c81-bb15-96be6b62d3de</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-740572843297">
+      <title>PERMUTATION AND COMBINATION</title>
+      <para id="id3931280">Three pictures are to be hung in line on a wall. Indicating the different pictures by A, B and C, one order in which they can be hung is A, B, C and another is A, C, B.</para>
+      <para id="id6161807">Each of these arrangements is called a permutation of the three pictures (and there are further possible permutations).</para>
+      <para id="id5924730">i.e. a permutation is an ordered arrangement of a number of items.</para>
+      <para id="id5128821">Suppose, however, that seven pictures are available for hanging and only three of them can be displayed. This time a choice has first to be made. Representing the seven pictures by A, B, C, D,E,F and G, one possible choice of the three pictures for display is A, B, and C. Regardless of the order in which they are then hung this group of three is just one choice and is called combination. Thus A, B, C or A, C, B or B, A, C or B, C, A or C, A, B or C, B, A are six different permutations but only one combination . </para>
+      <para id="id3344951">i.e. a combination is an unordered selection of a number of items from a given set.</para>
+      <para id="id3931147">In general, n! represents the number nx(n-1)x(n-2)x…x2x1, i.e. n! means the product of all the integers from 1 to n inclusive. </para>
+      <para id="id3472342">Exercises :</para>
+      <list id="id4230642" list-type="enumerated">
+        <item>In each of the following problems determine , without working out the answer, whether you are asked to find a number of permutations, or a number of combinations.<list id="id3574306" list-type="bulleted"><item>How many arrangements of the letters A, B, C are there ?</item><item>A team of six members is chosen from a group of eight. How many different teams can be selected ?</item><item>A person can take eight records to a desert island, chosen from his own collection of one hundred records. How many different sets of records could he choose ?</item><item>One red die and one green die are rolled (each number one to six). In how many ways can a total score of six be obtained ? </item></list></item>
+        <item>a) How many different combinations of six letters can be chosen from the letters A, B, C, D, E, F, G, H, if each letter is chosen only once ?</item>
+      </list>
+      <para id="id4376962">b) In how many ways can the eight letters be divided into two groups of six and two letters ? </para>
+      <list id="id6021752" list-type="enumerated">
+        <item>A team of four children is to be selected from a class of twenty children , to compete in a quiz game. In how many ways can the team be chosen if :<list id="id5055118" list-type="bulleted"><item>any four children can be chosen </item><item>the four chosen must include the oldest in the class ?</item></list></item>
+        <item>A shop stocks ten different varieties of packet soup. In how many ways can a shopper buy three packets of soup if :<list id="id6158457" list-type="bulleted"><item>each packet is a different variety </item><item>two packet are the same variety </item></list></item>
+        <item>a) In how many ways can ten different books be divided into two groups of six and four books ?</item>
+      </list>
+      <para id="id3852856">b) In how many different hands of five cards can be dealt from a suit of thirteen cards?</para>
+      <list id="id3557948" list-type="enumerated">
+        <item>A large box of biscuits contains nine different varieties. In how many ways can four biscuits be chosen if :<list id="id4246779" list-type="bulleted"><item>all four are different </item><item>two are the same and the others different </item><item>two each of two varieties are selected </item><item>there are the same and the fourth is different </item><item>all four the same </item></list></item>
+        <item>Find how many distinct numbers greater than 5000 and divisible by 3 can be formed from the digits 3,4,5,6 and 0, each digit being used at most once in any number.</item>
+        <item>A certain test consists of seven questions, to each of which a candidate must give one of three possible answers. According to the answer that he chooses, the candidate must score 1, 2, or 3 marks for each of the seven questions. In how many different ways can a candidate score exactly 18 marks in the test? </item>
+        <item>A tennis club is to select a team of three pairs, each pair consisting of a man and a woman, for a match. The team is to be chosen from 7 men and 5 women. In how many different ways can the three pairs be selected? </item>
+        <item>How many four digit odd numbers can be made from the set {5, 7, 8, 9}, no integer being used more than once?</item>
+        <item>How many numbers greater than 4000 can be made from the set {1,3,5,7}, if each integer can be used only once?</item>
+        <item>How many arrangements can be made of three letters chosen from PEAT if the first letter is a vowel and each arrangement contains three different letters?</item>
+        <item>How many three digit numbers can be made from the set of integers {1,2,3,4,5,6,7,8,9} if:</item>
+      </list>
+      <para id="id4256755">(a) the three digits are all different,</para>
+      <para id="id5482068">(b) the three digits are all the same,</para>
+      <para id="id5920233">(c) the number is greater than 600,</para>
+      <para id="id6042348">(d) all three digits are the same and the number is odd?</para>
+      <list id="id3521274" list-type="enumerated">
+        <item>Three boxes each contain three identical balls. The first box has red balls in it, the second blue balls and the third green balls. In how many ways can three balls be arranged in a row if:</item>
+      </list>
+      <para id="id5186846">(a) the balls are of different colours,</para>
+      <para id="id3860329">(b) all three balls are of the same colour? </para>
+      <list id="id4017064" list-type="enumerated">
+        <item>n red counters and m green counters are to be placed in a straight line. Find the number of different arrangements of the colours. A town has n streets running from south to north and m streets running from west to east. A man wishes to go from the extreme south-west intersection to the extreme north-east intersection, always moving either north or east along one of the streets. Find the number of different routes he can take.</item>
+      </list>
+    </section>
+  </content>
+</document>

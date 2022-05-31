@@ -1,0 +1,67 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>hoán vị trên một hàng</title>
+  <metadata>
+  <md:content-id>m27915</md:content-id><md:title>hoán vị trên một hàng</md:title>
+  <md:abstract/>
+  <md:uuid>6e23ded1-1a2d-455c-9215-fb617b88c0cf</md:uuid>
+</metadata>
+
+<content>
+    <para id="id6417887">ARRANGEMENT </para>
+    <para id="id6417891">The number of ways of arranging n unlike objects in a line is n! .</para>
+    <para id="id4736060">The number of ways of arranging in a line is n objects , of which p are alike , is <!--Sorry, this media type is not supported.-->.</para>
+    <para id="id5955947">The number of ways of arranging n unlike objects in a ring when clockwise and anticlockwise arrangements are different is (n-1)! .</para>
+    <para id="id4046070">The number of ways of arranging n unlike objects in a ring when clockwise and anticlockwise arrangements are the same, is <!--Sorry, this media type is not supported.-->. </para>
+    <para id="id6263441">e.g. The representatives of five countries attend a conference. In how many ways can they be seated at a round table ?</para>
+    <para id="id3266949">As they are seated at a round table, there is no first or last place to consider. What matters in this arrangement is where each one sits relative to the others, as no one seat is special.</para>
+    <para id="id3510886">EDCBA12345DCBAE12345CBAED12345BAEDC12345AEDCB12345Numbering the chairs 1 to 5, we can say that there are 5 ways of selecting the occupant of the first seat . 4 ways of selecting the occupant of the second seat … and so on. Thus there are 5x4x3x2x1 ways of arranging the representatives in the five seats . But this number includes the arrangements shown below :</para>
+    <para id="id5242411">i.e. for any one arrangement in the five seats , the representatives can be moved clockwise five times and still have the same people to the left and to the right of them . Therefore the 5x4x3x2x1 ways of arranging the five representatives in numbered seats is five times the number of ways of arranging them round a circular table , so there are <!--Sorry, this media type is not supported.-->ways, or 4x3x2x1 ways = (5-1)! in which the representatives can be seated at the round table.</para>
+    <para id="id6454939">e.g. In how many ways can five beads, chosen from eight different beads be threaded on to a ring ?</para>
+    <para id="id6497146">EDCBA12345DCBAE12345CBAED12345BAEDC12345AEDCB12345The number of ways of arranging five beads taken from eight different beads , in five numbered places is 8x7x6x5x4. Thus the number of ways of arranging five (from eight) beads in a circle is <!--Sorry, this media type is not supported.-->as : </para>
+    <para id="id6405245">But a ring can be turned over, </para>
+    <para id="id5155376">EDCBA12345BCDEA12345i.e. </para>
+    <para id="id5028684">and these have been counted as two separate arrangements. So the number of circular arrangements is twice the number of arrangements on a ring. Therefore the number of ways of threading five beads, from eight different beads , on a ring is <!--Sorry, this media type is not supported.-->.</para>
+    <para id="id6449230">1.</para>
+    <list id="id5913988" list-type="enumerated">
+      <item>In how many ways can eight people be seated at a round table?</item>
+      <item>In how many ways can eight cows be placed in a circular milking parlour?</item>
+    </list>
+    <para id="id5696315">2.</para>
+    <list id="id6059155" list-type="enumerated">
+      <item>How many different combinations of six letters can be chosen from the letters A, B, C, D, E, F, G, H, if each letter is chosen only once ?</item>
+      <item>In how many ways can the eight letters be divided into two groups of six and two letters?</item>
+    </list>
+    <para id="id5695940">3. In how many ways can five different books be arranged on a shelf ? </para>
+    <para id="id6349898">4. How many two digit numbers can be made from the set {2,3,4,5,6,7,8,9}, each number containing two different digits ?</para>
+    <para id="id6349902">5. In how many ways can six different shrubs be planted in a row?</para>
+    <para id="id5028739">6. In how many of the possible permutations of the letters of the word ADDING are the two D's :</para>
+    <list id="id6156476" list-type="enumerated">
+      <item>together</item>
+      <item>separate </item>
+    </list>
+    <para id="id6069127">7. How many permutations of the letters of the word DEFEATED are there in which the E's are separated from each other ?</para>
+    <para id="id6069131">8. A box contains seven snooker balls , three of which are red , two black , one white and one green. In how many ways can three balls be chosen ?</para>
+    <para id="id6281942">9. Four books are taken from a shelf of eighteen books , of which six are paperback, and twelve are hardback. In how many of the possible combinations of four books is at least one a paperback ? </para>
+    <para id="id5976930">10. Find how many numbers between 10 and 300 can be made from the digits 1, 2, 3, if :</para>
+    <list id="id6069179" list-type="enumerated">
+      <item>each digit may be used only once,</item>
+      <item>each digit may be used more than once ?</item>
+    </list>
+    <para id="id6261512">11. How many combinations of three letters taken from the letters A, A, B, B, C, C, D are there ?</para>
+    <para id="id7446547">12. </para>
+    <list id="id5896133" list-type="enumerated">
+      <item>Find the number of permutations of the letters of the word MATHEMATICS</item>
+      <item>Find the number of permutations of four letters from the word MATHEMATICS</item>
+      <item>How many of the permutations contain two pairs of letters that are the same ?</item>
+    </list>
+    <para id="id6679855">13. Find the number of ways in which twelve children can be divided into two groups of six if two particular boys must be in different groups ?</para>
+    <para id="id5830465">14. A box contains ten bricks , identical except for colour. Three bricks are red , two are white, two are yellow , two are blue and one is black. In how many ways can three distinguishable bricks be </para>
+    <list id="id4058259" list-type="enumerated"><item>taken from the box </item>
+	<item>arranged in a row ?</item>
+	<item>In how many of the arrangements in a row of all ten bricks are the three red bricks separated from each other ,</item>
+	<item>In how many of the arrangements in a row of all ten bricks are just two of the red bricks nect to each other ?</item>
+</list>
+    <para id="id6547745">15. How many even numbers less than 500 can be made from the integers 1,2,3,4,5, each integer being used only once ?</para>
+    <para id="id6681539">16. In how many ways can three letters from the word GREEN be arranged in a row if at least one of the letters is E ?</para>
+  </content>
+</document>

@@ -1,0 +1,86 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>bài tập tổ hợp</title>
+  <metadata>
+  <md:content-id>m27889</md:content-id><md:title>bài tập tổ hợp</md:title>
+  <md:abstract/>
+  <md:uuid>904b30ab-e8c3-41e8-a9fa-eb43987de275</md:uuid>
+</metadata>
+
+<content>
+    <para id="id4854449">COUNTING AND ODERING TECHNIQUES</para>
+    <para id="id7172282">1. </para>
+    <para id="id3912361">TRACK MEET AMONG SCHOOLS A , B AND C</para>
+    <table id="id7670854" summary="">
+      <tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>First Place(5 points)</entry>
+            <entry>Second Place(3 points)</entry>
+            <entry>Third Place(1 point)</entry>
+          </row>
+          <row>
+            <entry>Event I</entry>
+            <entry>A</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>Event II</entry>
+            <entry>A</entry>
+            <entry>B</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Event III</entry>
+            <entry/>
+            <entry>C</entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id7639485">A partially completed scorecard for a track meet is shown above . Schools A, B and C each entered one person in each of the three events and there were no ties. What is one possible total score for school C (Assume that all points are awarded in each event.)</para>
+    <para id="id6957375">2. In a stack of six cards , each card is labeled with a different integer 0 through 5. If two cards are selected at random without replacement , what is the probability that their sum will be 3 ?</para>
+    <para id="id6015130">3. A bag contains a number of pieces of candy of which 78 are red , 24 are brown, and the remainder are yellow . If the probability of selecting a yellow piece of candy from this bag at random is 1/3 , how many yellow pieces of candy are in the bag ?</para>
+    <para id="id6815966">4. There are 120 red marbles and 80 blue marbles in a bag that contains 200 marbles . If only blue marbles are to be added to the bag so that the probability of randomly drawing a blue marble from the bag becomes 2/3 , how many blue marbles must be added to the bag ?</para>
+    <para id="id6528524">5. There are 3 roads from Plattsville to Ocean Heights and 4 roads from Ocean Heights to Bay Cove . If Martina drives from Plattsville Bay Cove and back , passes through Ocean Heights in both directions , and does not travel any road twice , how many different routes for the trip are possible. </para>
+    <para id="id3026151">6. A barrel contains only apples and oranges . There are twice as many apples as oranges . The apples are either red or yellow , and 4 times as many apples are red as are yellow. If one piece of fruit is to be drawn at random from the barrel , what is the probability that the piece drawn will be a yellow apple ?</para>
+    <para id="id5009708">7. A teacher is to be assigned to teach 5 different courses in 5 different class periods on Mondays. If exactly one course meets each period , how many different assignments of courses to these class periods are possible for Mondays ?</para>
+    <para id="id5496937">8.</para>
+    <table id="id7516748" summary="">
+      <tgroup cols="2">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <tbody>
+          <row>
+            <entry>Quiz Score</entry>
+            <entry>Number of Students Who Received That Score</entry>
+          </row>
+          <row>
+            <entry>0</entry>
+            <entry>3</entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry>6</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>7</entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>4</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    <para id="id8325956">A class of 20 students took a 3-question quiz. The table shows the possible scores on this quiz and the number of students who received each of these scores.If one of the students is picked at random , what is the probability that that student’s quiz score will be greater than 1 ?</para>
+    <para id="id5623839">9. Of the students in a certain homeroom , 9 are in the school play , 12 are in the orchestra , and 15 are in the choral group . If 5 students participate in exactly 2 of the 3 activities and all other students participate in only 1 activity, how many students are in the homeroom ?</para>
+  </content>
+</document>
