@@ -1,3 +1,25 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10796</md:content-id>  <md:title>TỔ HỢP VÀ HOÁN VỊ</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>556cd1e7-36cc-4f67-9bb3-37b23d59d2ae</md:uuid>
-<md:slug>to-hop-va-hoan-vi</md:slug>
-</metadata>  <col:content>                        <col:subcollection>        <md:title>Chương 1: Phân biệt tổ hợp và hoán vị</md:title>                                <col:content>                  </col:content>      </col:subcollection>              <col:module document="m28088"/>                                          <col:subcollection>        <md:title>Chương 2: Các bài tập thục hành về hoán vị và tổ hợp</md:title>                                <col:content>                    <col:module document="m27915"/>                            <col:module document="m27889"/>                          </col:content>      </col:subcollection>      </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Nguy&#x1EC5;n H&#x1ED3;ng H&#xE0;">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10796</md:content-id>
+    <md:title>T&#x1ED4; H&#x1EE2;P V&#xC0; HO&#xC1;N V&#x1ECA;</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>556cd1e7-36cc-4f67-9bb3-37b23d59d2ae</md:uuid>
+    <md:slug>to-hop-va-hoan-vi</md:slug>
+  </metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Ch&#x1B0;&#x1A1;ng 1: Ph&#xE2;n bi&#x1EC7;t t&#x1ED5; h&#x1EE3;p v&#xE0; ho&#xE1;n v&#x1ECB;</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+    <col:module document="m28088"/>
+    <col:subcollection>
+      <md:title>Ch&#x1B0;&#x1A1;ng 2: C&#xE1;c b&#xE0;i t&#x1EAD;p th&#x1EE5;c h&#xE0;nh v&#x1EC1; ho&#xE1;n v&#x1ECB; v&#xE0; t&#x1ED5; h&#x1EE3;p</md:title>
+      <col:content>
+        <col:module document="m27915"/>
+        <col:module document="m27889"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
